@@ -2,6 +2,9 @@
 
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
+🚀 I'm currently building exciting **AI/ML projects** that solve real-world problems.  
+🤖 Passionate about everything AI — from machine learning models to intelligent applications!
+
 ```rust
 fn main() {
     let name = "Gourav Bambhore";
@@ -13,6 +16,7 @@ fn main() {
     println!("Acknowledgements: {}", acknowledgements);
     println!("Location: {}", location);
 }
+
 
 ```
 ![Profile Views](https://komarev.com/ghpvc/?username=gouravbambhore&label=Profile+views&style=for-the-badge&color=green)
