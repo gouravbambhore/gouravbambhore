@@ -8,7 +8,7 @@
 ```rust
 fn main() {
     let name = "Gourav Bambhore";
-    let acknowledgements = "B.Tech 3rd-year student";
+    let acknowledgements = "B.Tech 4th-year student";
 
     let location = "Bengaluru, Karnataka, India";
     
